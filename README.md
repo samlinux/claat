@@ -1,4 +1,4 @@
-# Create a CodeLab with CLaaT and publish it to the IC
+# Create a CodeLab with CLaaT
 
 ## CodeLab Overview
 Duration: 0:01:00
