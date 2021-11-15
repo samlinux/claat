@@ -1,2 +1,2 @@
-# claat
-A short tutorial how you can use the claat tool 
+# CLaat
+A short tutorial how you can use the CLaat tool.
